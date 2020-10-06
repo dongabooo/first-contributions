@@ -2,6 +2,7 @@
 
 - [Saccha Agriel](https://github.com/sacchaagriel)
 - [Marisescu Cristian](https://github.com/cristian-marisescu)
+- [Oscar Martinez] (https://github.com/dongabooo)
 - [Gautam kumar](https://github.com/gautam08)
 - [Jack Kendall](https://github.com/jkendall327)
 - [Hexiang Zhang](https://github.com/hexzha)
